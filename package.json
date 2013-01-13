@@ -1,0 +1,24 @@
+{
+	"name": "piweb",
+	"description": "Framework for developing complex node.js web applications based upon express.",
+	"version": "0.0.1",
+	"private": false,
+	"main": "./lib/piweb.js",
+	"author": {
+		"name": "Chris Mellish",
+		"email": "chris@pureinnovation.com"
+	},
+	"contributors": [
+		{
+			"name": "Chris Mellish",
+			"email": "chris@pureinnovation.com"
+		}
+	],
+	"dependencies": {
+#		"pg": "*"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git@github.com:PureInnovation/Node-PiWeb.git"
+	}
+}
